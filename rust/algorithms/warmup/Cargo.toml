@@ -1,0 +1,9 @@
+[package]
+name = "warmup"
+version = "0.1.0"
+authors = ["Caio Gondim <me@caiogondim.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+assert_cli = "0.6"
